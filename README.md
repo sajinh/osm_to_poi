@@ -19,8 +19,10 @@ of this library to extract the POIs of interest (amenity, shop, leisure and tour
 
 In this example, we start off by streaming through the XML elements one by one.
 Once an element by the name 'node' is reached, we check if it is processable
-by POIFactory. If so, it is dispatched to POIFactory for further processing. The
-POIFactory extracts POIs that we specified and stores all attributes in a hash. If not, we skip to the next element and so on. Once the whole XML file is processed, we retrieve an array of hashes from the POIFactory instance.  In the example,
+by POIFactory. If so, it is dispatched to POIFactory for further processing. 
+If not, we skip to the next element and so on. The
+POIFactory extracts POIs that we specified and stores all attributes in a hash.
+Once the whole XML file is processed, we retrieve an array of hashes from the POIFactory instance.  In the example,
 this is further processed to write a CSV file with only the attributes of interest.
 
 What does it contain?
