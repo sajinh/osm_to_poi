@@ -1,0 +1,2309 @@
+---
+:lat: '37.4991945'
+:lon: '139.9264764'
+:created_by: Potlatch 0.9a
+:name: 白木屋
+:shop: japan
+---
+:lat: '37.5212979'
+:lon: '139.9166467'
+:amenity: fuel
+:created_by: Potlatch 0.9a
+:name: COSMO
+---
+:lat: '37.4746158'
+:lon: '139.9258976'
+:amenity: restaurant
+:created_by: Potlatch 0.9a
+:name: 頓珍館
+---
+:lat: '37.5356879'
+:lon: '140.0296971'
+:amenity: toilets
+:created_by: Potlatch 0.10e
+---
+:lat: '37.4882506'
+:lon: '139.9291745'
+:amenity: toilets
+---
+:lat: '37.4881484'
+:lon: '139.9292861'
+:information: office
+:name: 鶴ケ城観光案内所
+:tourism: information
+---
+:lat: '37.4883119'
+:lon: '139.9294749'
+:information: map
+:tourism: information
+---
+:lat: '37.4882216'
+:lon: '139.9294476'
+:amenity: bench
+---
+:lat: '37.4880531'
+:lon: '139.9292088'
+:amenity: bicycle_rental
+---
+:lat: '37.4881144'
+:lon: '139.9291058'
+:amenity: cafe
+---
+:lat: '37.4866647'
+:lon: '139.9308709'
+:amenity: cafe
+:name: 茶室麟閣
+---
+:lat: '37.4878467'
+:lon: '139.9279645'
+:amenity: toilets
+---
+:lat: '37.4884427'
+:lon: '139.9300284'
+:amenity: place_of_worship
+:name: 鶴ヶ城稲荷神社
+:religion: shinto
+---
+:lat: '37.4889684'
+:lon: '139.9292901'
+:amenity: toilets
+---
+:lat: '37.4889480'
+:lon: '139.9295221'
+:amenity: taxi
+---
+:lat: '37.4891540'
+:lon: '139.9313027'
+:amenity: cafe
+:created_by: iLOE 1.9
+:name: 本丸茶屋
+---
+:lat: '37.4889607'
+:lon: '139.9300357'
+:amenity: bench
+---
+:lat: '37.4878620'
+:lon: '139.9305182'
+:amenity: bench
+---
+:lat: '37.4889258'
+:lon: '139.9324548'
+:amenity: toilets
+---
+:lat: '37.4898109'
+:lon: '139.9336071'
+:amenity: fuel
+:created_by: iLOE 1.9
+:name: 昭和シェル石油 佐藤燃料
+---
+:lat: '37.4888744'
+:lon: '139.9346302'
+:name: 福島県立博物館
+:tourism: museum
+---
+:lat: '37.4898056'
+:lon: '139.9319485'
+:amenity: restaurant
+:cuisine: regional
+:name: 鶴ヶ城会館
+---
+:lat: '37.4860927'
+:lon: '139.9324009'
+:amenity: bench
+---
+:lat: '37.4859963'
+:lon: '139.9323931'
+:amenity: bench
+---
+:lat: '37.4882634'
+:lon: '139.9334042'
+:amenity: toilets
+:fee: 'no'
+---
+:lat: '37.4875420'
+:lon: '139.9287682'
+:amenity: place_of_worship
+:name: 笠間稲荷神社
+:religion: shinto
+---
+:lat: '37.4621555'
+:lon: '139.8439495'
+:name: ローソン
+:shop: convenience
+---
+:lat: '37.4842629'
+:lon: '139.9047132'
+:amenity: parking
+---
+:lat: '37.4855612'
+:lon: '139.9082538'
+:amenity: parking
+---
+:lat: '37.4765781'
+:lon: '139.9107564'
+:name: セブンイレブン
+:shop: convenience
+---
+:lat: '37.4855539'
+:lon: '139.9071295'
+:amenity: parking
+---
+:lat: '37.5044151'
+:lon: '139.9387622'
+:amenity: place_of_worship
+:name: 蚕養神社
+:religion: shinto
+---
+:lat: '37.5059215'
+:lon: '139.9362087'
+:amenity: restaurant
+:name: 幸楽苑
+---
+:lat: '37.4919365'
+:lon: '139.8731446'
+:amenity: public_building
+:name: 会津若松市北会津 農業改善センター
+---
+:lat: '37.4717757'
+:lon: '139.8785090'
+:name: ファミリーマート
+:shop: convenience
+---
+:lat: '37.4790703'
+:lon: '139.9189719'
+:name: TSUTAYA門田店
+:shop: video
+---
+:lat: '37.4673819'
+:lon: '140.0116539'
+:amenity: public_building
+:name: 湊公民館
+---
+:lat: '37.4671005'
+:lon: '140.0102508'
+:amenity: place_of_worship
+:religion: shinto
+---
+:lat: '37.4923131'
+:lon: '139.9114486'
+:amenity: place_of_worship
+:name: 古峯神社
+:religion: shinto
+---
+:lat: '37.4846407'
+:lon: '139.9106741'
+:amenity: place_of_worship
+:historic: wayside_shrine
+:name: 古峯神社
+:religion: shinto
+---
+:lat: '37.4871862'
+:lon: '139.9112535'
+:amenity: place_of_worship
+:name: 秀長寺
+---
+:lat: '37.5012402'
+:lon: '139.9193215'
+:amenity: fast_food
+:name: 七日町駅 駅カフェ
+:opening_hours: 9：00
+---
+:lat: '37.4783831'
+:lon: '139.9071550'
+:amenity: place_of_worship
+:name: 古峯神社
+:religion: shinto
+---
+:lat: '37.4802647'
+:lon: '139.9040008'
+:amenity: place_of_worship
+:name: 稲荷神社
+:religion: shinto
+---
+:lat: '37.4764929'
+:lon: '139.9053741'
+:created_by: iLOE 1.8
+:name: コープ 飯寺
+:opening_hours: 9:30-20:00
+:shop: supermarket
+:wheelchair: 'yes'
+---
+:lat: '37.4784341'
+:lon: '139.9094510'
+:name: セブンイレブン門田飯寺店
+:shop: convenience
+---
+:lat: '37.4946145'
+:lon: '139.9196898'
+:name: コープ 本町店
+:shop: supermarket
+---
+:lat: '37.4933836'
+:lon: '139.9189782'
+:amenity: place_of_worship
+:name: 小館稲荷神社
+---
+:lat: '37.4865477'
+:lon: '139.9082708'
+:amenity: public_building
+:name: 住吉町 町内会館
+---
+:lat: '37.4934262'
+:lon: '139.8853111'
+:amenity: place_of_worship
+:name: 白山神社
+:religion: shinto
+---
+:lat: '37.4819675'
+:lon: '139.9211025'
+:amenity: place_of_worship
+:name: 村社荒神社
+:religion: shinto
+---
+:lat: '37.4818312'
+:lon: '139.9211669'
+:amenity: place_of_worship
+:name: 古峯神社
+:religion: shinto
+---
+:lat: '37.4813119'
+:lon: '139.9252224'
+:amenity: place_of_worship
+:name: 常慶寺
+:religion: buddhist
+---
+:lat: '37.4818897'
+:lon: '139.9262746'
+:name: パン工房またど～る
+:shop: bakery
+---
+:lat: '37.4836085'
+:lon: '139.9255171'
+:leisure: playground
+---
+:lat: '37.4896040'
+:lon: '139.9042583'
+:created_by: iLOE 1.8
+:name: セブンイレブン 会津幕内店
+:shop: convenience
+:wheelchair: 'yes'
+---
+:lat: '37.4854431'
+:lon: '139.9531676'
+:name: 会津武家屋敷
+:tourism: museum
+---
+:lat: '37.4814781'
+:lon: '139.9011785'
+:created_by: iLOE 1.8
+:name: ケイヨーD2
+:opening_hours: '11:00'
+:shop: doityourself
+:wheelchair: 'yes'
+---
+:lat: '37.4826741'
+:lon: '139.9022412'
+:created_by: iLOE 1.8
+:name: ファミリーマート 会津門田店
+:shop: convenience
+:wheelchair: 'yes'
+---
+:lat: '37.4843683'
+:lon: '139.9263382'
+:name: はやし床屋さん
+:shop: hairdresser
+---
+:lat: '37.4844534'
+:lon: '139.9263382'
+:amenity: restaurant
+:name: まるとし食堂
+---
+:lat: '37.4853088'
+:lon: '139.9266228'
+:amenity: bank
+:atm: 'yes'
+:name: 会津信用金庫 南支店
+---
+:lat: '37.4853569'
+:lon: '139.9264179'
+:leisure: fishing
+:name: つり吉
+---
+:lat: '37.4854580'
+:lon: '139.9264145'
+:name: ホワイト急便
+:shop: dry_cleaning
+---
+:lat: '37.4856600'
+:lon: '139.9264261'
+:name: Hair Appear
+:shop: hairdresser
+---
+:lat: '37.5058226'
+:lon: '139.9114011'
+:amenity: restaurant
+:cuisine: asian
+:name: 焼肉モランボン
+---
+:lat: '37.4851550'
+:lon: '139.9261200'
+:amenity: doctors
+:name: ゆず整骨院
+---
+:lat: '37.4845920'
+:lon: '139.9121230'
+:amenity: place_of_worship
+:name: 神明神社
+:religion: shinto
+---
+:lat: '37.4855880'
+:lon: '139.9261090'
+:name: 白木屋
+:shop: hifi
+---
+:lat: '37.4904510'
+:lon: '139.9134010'
+:amenity: place_of_worship
+:name: 日蓮宗 大法寺
+:religion: buddhist
+---
+:lat: '37.4864230'
+:lon: '139.9114300'
+:amenity: bank
+:name: 大東銀行 材木町支店
+---
+:lat: '37.4861640'
+:lon: '139.9113410'
+:amenity: fuel
+:name: 出光石油
+---
+:lat: '37.4862157'
+:lon: '139.9100518'
+:name: 会津中販
+:shop: car
+---
+:lat: '37.4860965'
+:lon: '139.9089575'
+:amenity: fast_food
+:created_by: iLOE 1.8
+:name: ほっともっと HottoMotto 会津住吉店
+:opening_hours: 7:00-23:00
+:wheelchair: 'no'
+---
+:lat: '37.4861671'
+:lon: '139.9050020'
+:name: ビューティーサロン ミコ
+:shop: hairdresser
+---
+:lat: '37.4861570'
+:lon: '139.9047460'
+:amenity: restaurant
+:name: 自栽自消 食房 もりなが
+---
+:lat: '37.4854970'
+:lon: '139.9048350'
+:name: CutHouce Image
+:shop: hairdresser
+---
+:lat: '37.4853465'
+:lon: '139.9030802'
+:name: イチユウオート
+:phone: 0242287977
+:shop: car
+---
+:lat: '37.4936860'
+:lon: '139.9278080'
+:name: セブンイレブン東栄町店
+:shop: convenience
+---
+:lat: '37.4786610'
+:lon: '139.9227150'
+:amenity: fast_food
+:name: かっぱ寿司
+---
+:lat: '37.4894440'
+:lon: '139.9121570'
+:name: Fresh Bakery モックモック
+:shop: bakery
+---
+:lat: '37.4894337'
+:lon: '139.9121547'
+:name: 鈴木屋金物店
+:shop: doityourself
+---
+:lat: '37.4907720'
+:lon: '139.9218640'
+:amenity: hospital
+:name: 竹田綜合病院
+---
+:lat: '37.4962950'
+:lon: '139.9303280'
+:amenity: police
+:name: 会津若松警察署栄町交番
+---
+:lat: '37.5071073'
+:lon: '139.9303952'
+:amenity: police
+:name: 会津若松警察署駅前交番
+---
+:lat: '37.5067430'
+:lon: '139.9298270'
+:name: ピボット
+:shop: supermarket
+---
+:lat: '37.5030820'
+:lon: '139.9146980'
+:amenity: police
+:name: 交番
+---
+:lat: '37.4901990'
+:lon: '139.9174500'
+:amenity: doctors
+:description: 泌尿器科、内科、人工透析
+:name: 会津クリニック
+:phone: 0242381150
+---
+:lat: '37.4900370'
+:lon: '139.9153020'
+:name: 会津駄菓子 長門屋
+:shop: confectionery
+---
+:lat: '37.4903110'
+:lon: '139.9152000'
+:amenity: doctors
+:name: 加藤内科小児科医院
+:phone: '0242272732'
+---
+:lat: '37.4903390'
+:lon: '139.9144070'
+:name: 五十嵐幸太郎太鼓店
+:phone: 0242270985
+:shop: music
+---
+:lat: '37.4862180'
+:lon: '139.9170980'
+:amenity: fuel
+:created_by: iLOE 1.8
+:name: まるちゅうセルフステーション会津若松給油所
+:opening_hours: 24h
+:wheelchair: limited
+---
+:lat: '37.4858820'
+:lon: '139.9185850'
+:created_by: iLOE 1.8
+:name: 坂内書店
+:shop: books
+:wheelchair: 'yes'
+---
+:lat: '37.4857840'
+:lon: '139.9199260'
+:amenity: fuel
+:created_by: iLOE 1.8
+:name: JOMO花畑SS
+:wheelchair: limited
+---
+:lat: '37.4860010'
+:lon: '139.9199610'
+:created_by: iLOE 1.8
+:name: まるや
+:phone: 0242276689
+:shop: hairdresser
+:wheelchair: limited
+---
+:lat: '37.5154740'
+:lon: '139.9027580'
+:name: セブンイレブン会津高瀬店
+:shop: convenience
+---
+:lat: '37.5151130'
+:lon: '139.9014610'
+:amenity: fuel
+:name: 三菱商事石油
+---
+:lat: '37.5184000'
+:lon: '139.9181510'
+:name: セブンイレブン会津若松インター店
+:shop: convenience
+---
+:lat: '37.5181460'
+:lon: '139.9178730'
+:name: 洋服の青山
+:shop: clothes
+---
+:lat: '37.4860160'
+:lon: '139.9127021'
+:name: フレッシュマート タカク
+:shop: organic
+---
+:lat: '37.4859840'
+:lon: '139.9164200'
+:created_by: iLOE 1.8
+:name: きもの処 かねこ
+:shop: clothes
+:wheelchair: 'no'
+---
+:lat: '37.4860360'
+:lon: '139.9196610'
+:name: 小林サイクル
+:shop: bicycle
+---
+:lat: '37.4859500'
+:lon: '139.9202790'
+:name: オーディオ レオ
+:opening_hours: 9AM
+:phone: 0242280154
+:shop: electronics
+---
+:lat: '37.4859510'
+:lon: '139.9206760'
+:amenity: restaurant
+:name: 美由希食堂
+---
+:lat: '37.4859150'
+:lon: '139.9208930'
+:name: 長谷川商店
+:phone: '0242263062'
+:shop: convenience
+---
+:lat: '37.4940210'
+:lon: '139.9276490'
+:name: 大久保文具店
+:phone: 0242269010
+:shop: stationery
+---
+:lat: '37.4937270'
+:lon: '139.9275850'
+:amenity: fast_food
+:name: 牛丼 吉野家
+:opening_hours: 24h
+:phone: 0242383123
+---
+:lat: '37.4931520'
+:lon: '139.9274740'
+:amenity: restaurant
+:name: ラーメン 関さん
+---
+:lat: '37.4946430'
+:lon: '139.9277120'
+:name: Wine&Foods MellMonde
+:shop: alcohol
+---
+:lat: '37.4951800'
+:lon: '139.9278290'
+:name: せき薬局
+:shop: optician
+---
+:lat: '37.4989281'
+:lon: '139.9205444'
+:amenity: place_of_worship
+:name: 西蓮寺
+:religion: buddhist
+---
+:lat: '37.4816220'
+:lon: '139.9160860'
+:name: ローソン 会津門田日吉店
+:shop: convenience
+---
+:lat: '37.4811718'
+:lon: '139.9210731'
+:amenity: place_of_worship
+:name: 弘直院
+:religion: shinto
+---
+:lat: '37.4942670'
+:lon: '139.9417950'
+:amenity: restaurant
+:description: ラーメン、ソースカツ丼
+:name: めでたいや
+---
+:lat: '37.4932230'
+:lon: '139.9423210'
+:name: ブックスなにわ
+:shop: books
+---
+:lat: '37.4876666'
+:lon: '139.8999961'
+:amenity: place_of_worship
+:name: 熊野神社
+:religion: shinto
+---
+:lat: '37.4899849'
+:lon: '139.9008033'
+:amenity: place_of_worship
+:name: 二本木稲荷神社
+:religion: shinto
+---
+:lat: '37.4894716'
+:lon: '139.9008391'
+:amenity: place_of_worship
+:name: 新城寺
+:religion: buddhist
+---
+:lat: '37.4898784'
+:lon: '139.9032864'
+:amenity: public_building
+:name: 幕の内町内会館
+---
+:lat: '37.4941775'
+:lon: '139.9041103'
+:amenity: public_building
+:name: 柳原町内会館
+---
+:lat: '37.4941369'
+:lon: '139.9041065'
+:amenity: place_of_worship
+:religion: shinto
+---
+:lat: '37.4937937'
+:lon: '139.9041780'
+:amenity: kindergarten
+:name: 菅原若葉幼稚園
+---
+:lat: '37.4858660'
+:lon: '139.9212890'
+:created_by: iLOE 1.8
+:name: gu(ジーユー)
+:opening_hours: 11：00〜20：00
+:shop: clothes
+:wheelchair: 'yes'
+---
+:lat: '37.4858200'
+:lon: '139.9218010'
+:created_by: iLOE 1.8
+:name: セブンイレブン会津米代店
+:opening_hours: 24h
+:shop: convenience
+:wheelchair: 'yes'
+---
+:lat: '37.4891050'
+:lon: '139.9267510'
+:name: ファイテンショップ
+:shop: sports
+---
+:lat: '37.4889350'
+:lon: '139.9267080'
+:name: 會誠武道具店
+:shop: sports
+---
+:lat: '37.4851910'
+:lon: '139.9256690'
+:name: すずぱん
+:shop: bakery
+---
+:lat: '37.4915500'
+:lon: '139.9273890'
+:amenity: restaurant
+:name: 蕎麦料理 治左ェ門
+---
+:lat: '37.4914740'
+:lon: '139.9271260'
+:amenity: doctors
+:description: 皮膚科 アレルギー科 内科
+:name: 遠藤皮膚科
+:opening_hours: 9:00-17:00
+:phone: 0242270883
+---
+:lat: '37.4907110'
+:lon: '139.9269660'
+:amenity: restaurant
+:description: こだわり支那そば
+:name: 大笑屋
+:opening_hours: 7:00am
+---
+:lat: '37.4906800'
+:lon: '139.9272050'
+:name: マルコー写真館
+:shop: electronics
+---
+:lat: '37.4981990'
+:lon: '139.9285250'
+:amenity: bank
+:name: 東邦銀行 会津支店
+---
+:lat: '37.4981650'
+:lon: '139.9288230'
+:amenity: bank
+:name: みずほ銀行
+---
+:lat: '37.4987350'
+:lon: '139.9262100'
+:amenity: bank
+:name: 大東銀行 会津支店
+---
+:lat: '37.4990790'
+:lon: '139.9252110'
+:name: ファミリーマート 会津若松七日町支店
+:shop: convenience
+---
+:lat: '37.4992490'
+:lon: '139.9254520'
+:amenity: doctors
+:name: 鈴木内科消化器科クリニック
+:phone: '0242336100'
+---
+:lat: '37.4993090'
+:lon: '139.9252750'
+:name: レオ氏郷南蛮館
+:shop: gift
+---
+:lat: '37.4800531'
+:lon: '139.9352598'
+:name: 西沢書店
+:shop: books
+---
+:lat: '37.4800745'
+:lon: '139.9350078'
+:name: ABCマート
+:shop: shoes
+---
+:lat: '37.4785030'
+:lon: '139.9340990'
+:name: ファミリーカットハウス フレッシュ
+:shop: hairdresser
+---
+:lat: '37.4789360'
+:lon: '139.9347470'
+:amenity: fuel
+:name: ENEOS 城南SS
+---
+:lat: '37.4786800'
+:lon: '139.9341050'
+:name: コインランドリー サンキュー
+:shop: dry_cleaning
+---
+:lat: '37.4801271'
+:lon: '139.9341319'
+:name: ヨークベニマル 会津門田店
+:opening_hours: 9:00-23:00
+:shop: supermarket
+---
+:lat: '37.5180265'
+:lon: '139.8756592'
+:amenity: public_building
+:name: 真宮コミュニティセンター
+---
+:lat: '37.4992800'
+:lon: '139.9207318'
+:amenity: place_of_worship
+:name: 長福寺
+:religion: buddhist
+---
+:lat: '37.5245945'
+:lon: '139.8875693'
+:name: 湯屋あいづ
+:tourism: hotel
+---
+:lat: '37.4961743'
+:lon: '139.9279533'
+:amenity: place_of_worship
+:name: 神明神社
+:religion: shinto
+---
+:lat: '37.4791370'
+:lon: '139.9223310'
+:amenity: fast_food
+:name: 元気寿司
+---
+:lat: '37.4791730'
+:lon: '139.9219920'
+:name: 手芸のみとや
+:shop: clothes
+---
+:lat: '37.4788060'
+:lon: '139.9219420'
+:amenity: fuel
+:name: 出光石油
+---
+:lat: '37.4789290'
+:lon: '139.9232360'
+:name: カワサキ
+:shop: motorcycle
+---
+:lat: '37.4788730'
+:lon: '139.9250810'
+:amenity: car_rental
+:name: トヨタレンタリース新福島
+:phone: 0242280100
+---
+:lat: '37.4787076'
+:lon: '139.9250435'
+:amenity: bank
+:name: 大東銀行 門田支店
+---
+:lat: '37.4784640'
+:lon: '139.9271610'
+:amenity: bank
+:name: 東邦銀行
+---
+:lat: '37.4808990'
+:lon: '139.9021580'
+:created_by: iLOE 1.8
+:name: イエローハット 西若松店
+:opening_hours: 10:00-19:00
+:shop: car_repair
+:wheelchair: 'yes'
+---
+:lat: '37.4804440'
+:lon: '139.9022550'
+:amenity: fast_food
+:created_by: iLOE 1.8
+:name: すき屋 会津門田店
+:opening_hours: 24h
+:wheelchair: 'yes'
+---
+:lat: '37.4800440'
+:lon: '139.9022970'
+:created_by: iLOE 1.8
+:name: au 会津南店
+:opening_hours: 10-20
+:phone: 0242365590
+:shop: electronics
+:wheelchair: 'yes'
+---
+:lat: '37.4795490'
+:lon: '139.9023450'
+:amenity: restaurant
+:name: 喜多方ラーメン来夢 門田店
+:opening_hours: 11:00-00:00
+:wheelchair: 'yes'
+---
+:lat: '37.4792300'
+:lon: '139.9024640'
+:amenity: fuel
+:created_by: iLOE 1.8
+:name: ゼネラル
+:opening_hours: 7:00-23:00
+:wheelchair: 'yes'
+---
+:lat: '37.4787930'
+:lon: '139.9022830'
+:amenity: restaurant
+:name: COCO’S
+:opening_hours: 10:00-2:00
+:wheelchair: 'yes'
+---
+:lat: '37.4785810'
+:lon: '139.9022810'
+:created_by: iLOE 1.8
+:name: ブックオフ 会津門田店
+:opening_hours: 10:00-0:00
+:shop: books
+:wheelchair: 'yes'
+---
+:lat: '37.4783650'
+:lon: '139.9022810'
+:name: トーカイ
+:opening_hours: 10:00-19:00
+:shop: clothes
+:wheelchair: 'yes'
+---
+:lat: '37.4781200'
+:lon: '139.9022900'
+:created_by: iLOE 1.8
+:name: セブンイレブン 会津飯寺店
+:opening_hours: 24h
+:shop: convenience
+:wheelchair: 'yes'
+---
+:lat: '37.4742350'
+:lon: '139.9025680'
+:created_by: iLOE 1.8
+:name: docomo
+:shop: electronics
+:wheelchair: 'yes'
+---
+:lat: '37.4735950'
+:lon: '139.9028970'
+:created_by: iLOE 1.8
+:name: ファッションモール
+:opening_hours: 11:00-20:00
+:shop: clothes
+:wheelchair: 'yes'
+---
+:lat: '37.4734000'
+:lon: '139.9037040'
+:created_by: iLOE 1.8
+:name: ヨークベニマル 会津飯寺店
+:opening_hours: 9:00-22:00
+:shop: supermarket
+:wheelchair: 'yes'
+---
+:lat: '37.4731830'
+:lon: '139.9040220'
+:amenity: pharmacy
+:created_by: iLOE 1.8
+:name: くすりのコダマ
+:wheelchair: 'yes'
+---
+:lat: '37.4720590'
+:lon: '139.9041580'
+:created_by: iLOE 1.8
+:name: セブンイレブン 会津門田村西店
+:opening_hours: 24h
+:shop: convenience
+:wheelchair: 'yes'
+---
+:lat: '37.4726710'
+:lon: '139.9049750'
+:amenity: dentist
+:created_by: iLOE 1.8
+:name: 飯寺ファミリー歯科
+:opening_hours: 9:00-17:00
+:wheelchair: 'yes'
+---
+:lat: '37.4762370'
+:lon: '139.9078180'
+:created_by: iLOE 1.8
+:name: 健康倶楽部あいづ 鶴城館
+:tourism: hotel
+:wheelchair: 'yes'
+---
+:lat: '37.5183180'
+:lon: '139.9228290'
+:created_by: iLOE 1.8
+:leisure: playground
+:name: スーパーノバ
+---
+:lat: '37.4768020'
+:lon: '139.9050560'
+:amenity: fast_food
+:created_by: iLOE 1.8
+:description: ラーメン
+:name: 幸楽苑
+:wheelchair: 'yes'
+---
+:lat: '37.4772210'
+:lon: '139.9047040'
+:created_by: iLOE 1.8
+:name: ファミリーマート
+:opening_hours: 24h
+:shop: convenience
+:wheelchair: 'yes'
+---
+:lat: '37.4763640'
+:lon: '139.9042410'
+:created_by: iLOE 1.8
+:shop: dry_cleaning
+---
+:lat: '37.5499840'
+:lon: '139.9269880'
+:amenity: public_building
+:created_by: iLOE 1.8
+:name: 河東公民館
+:opening_hours: 8:30-17:15
+:phone: '0242752127'
+:wheelchair: 'yes'
+---
+:lat: '37.5498733'
+:lon: '139.9265156'
+:amenity: public_building
+:name: 河東保健センター
+:wheelchair: 'yes'
+---
+:lat: '37.5497405'
+:lon: '139.9257958'
+:amenity: public_building
+:name: 桜河苑
+:wheelchair: 'yes'
+---
+:lat: '37.5490790'
+:lon: '139.9278740'
+:amenity: kindergarten
+:created_by: iLOE 1.8
+:name: 広田保育所
+:wheelchair: 'yes'
+---
+:lat: '37.4959260'
+:lon: '139.9283500'
+:created_by: iLOE 1.8
+:name: TSUTAYA
+:shop: books
+---
+:lat: '37.5478089'
+:lon: '139.9285918'
+:amenity: post_office
+:name: 広田郵便局
+---
+:lat: '37.4975590'
+:lon: '139.9324430'
+:created_by: iLOE 1.8
+:name: セブンイレブン
+:opening_hours: 24h
+:shop: convenience
+:wheelchair: 'yes'
+---
+:lat: '37.4974550'
+:lon: '139.9319130'
+:amenity: restaurant
+:created_by: iLOE 1.8
+:name: 悟空林
+:wheelchair: 'yes'
+---
+:lat: '37.4976710'
+:lon: '139.9310700'
+:amenity: parking
+:created_by: iLOE 1.8
+:name: さくらパーキング
+:opening_hours: 24h
+---
+:lat: '37.4977260'
+:lon: '139.9308120'
+:amenity: bank
+:created_by: iLOE 1.8
+:name: 常陽銀行
+:wheelchair: 'yes'
+---
+:lat: '37.5295760'
+:lon: '139.8413290'
+:amenity: toilets
+:created_by: iLOE 1.8
+:name: 新鶴PA
+:wheelchair: 'yes'
+---
+:lat: '37.5295760'
+:lon: '139.8410600'
+:amenity: vending_machine
+:created_by: iLOE 1.8
+:shop: beverages
+---
+:lat: '37.5142320'
+:lon: '139.9330110'
+:created_by: iLOE 1.8
+:name: まんま～じゃ
+:opening_hours: 9:30-
+:shop: farm
+:wheelchair: 'yes'
+---
+:lat: '37.5177340'
+:lon: '139.9329520'
+:amenity: restaurant
+:created_by: iLOE 1.8
+:name: ビッグボーイ
+---
+:lat: '37.5177510'
+:lon: '139.9325920'
+:created_by: iLOE 1.8
+:name: ゲオ
+:shop: video
+---
+:lat: '37.4854890'
+:lon: '139.9225830'
+:created_by: iLOE 1.8
+:name: 西松屋
+:shop: clothes
+:wheelchair: 'yes'
+---
+:lat: '37.4855210'
+:lon: '139.9221000'
+:created_by: iLOE 1.8
+:name: 眼鏡市場
+:opening_hours: 10:00-
+:shop: optician
+---
+:lat: '37.4936540'
+:lon: '139.8741830'
+:amenity: place_of_worship
+:created_by: iLOE 1.8
+:name: 古峯神社 湯殿山
+---
+:lat: '37.4941680'
+:lon: '139.8733500'
+:amenity: public_building
+:created_by: iLOE 1.8
+:name: 中荒井多目的集会場
+---
+:lat: '37.4910020'
+:lon: '139.8732530'
+:amenity: telephone
+:created_by: iLOE 1.8
+---
+:lat: '37.4968116'
+:lon: '139.9307911'
+:amenity: restaurant
+:cuisine: ramen
+:name: いさみ
+---
+:lat: '37.4965854'
+:lon: '139.9303456'
+:amenity: restaurant
+:cuisine: 蕎麦
+:name: 栄安
+---
+:lat: '37.4964295'
+:lon: '139.9308322'
+:amenity: restaurant
+:cuisine: わっぱめし
+:name: 田季野
+---
+:lat: '37.4955872'
+:lon: '139.8738411'
+:amenity: place_of_worship
+:name: 千葉寺
+:religion: buddhist
+---
+:lat: '37.4922468'
+:lon: '139.8736638'
+:amenity: place_of_worship
+:name: 諏訪神社
+:religion: buddhist
+---
+:lat: '37.4854850'
+:lon: '139.9087370'
+:amenity: コインランドリー サンキュー
+:shop: laundry
+---
+:lat: '37.4856240'
+:lon: '139.9087380'
+:amenity: public_building
+:name: カーブス西若松
+---
+:lat: '37.4855530'
+:lon: '139.9087420'
+:amenity: school
+:name: カワイ音楽教室
+---
+:lat: '37.4879630'
+:lon: '139.9264750'
+:amenity: dentist
+:created_by: iLOE 1.8
+:name: 小山歯科医院
+:phone: 0242280180
+---
+:lat: '37.4836700'
+:lon: '139.9106210'
+:amenity: hospital
+:created_by: iLOE 1.8
+:name: 小野木クリニック
+---
+:lat: '37.5174967'
+:lon: '139.9280805'
+:name: ヤマダ電機
+:opening_hours: 10:30-21:00
+:phone: 0242371390
+:shop: electronics
+:wheelchair: 'yes'
+---
+:lat: '37.5012170'
+:lon: '139.9297460'
+:created_by: iLOE 1.8
+:name: 和真眼鏡
+:shop: optician
+---
+:lat: '37.5177108'
+:lon: '139.9270474'
+:amenity: restaurant
+:name: ガスト
+---
+:lat: '37.5177172'
+:lon: '139.9266068'
+:name: NTT docomo
+:shop: electronics
+---
+:lat: '37.5176978'
+:lon: '139.9287036'
+:name: ダイソー
+:shop: supermarket
+---
+:lat: '37.4863510'
+:lon: '139.9053050'
+:amenity: dentist
+:created_by: iLOE 1.8
+:name: 加羽沢歯科医院
+:wheelchair: 'yes'
+---
+:lat: '37.4860280'
+:lon: '139.9063840'
+:amenity: doctors
+:created_by: iLOE 1.8
+:name: 斎藤医院
+:opening_hours: 9:00-14:00
+:wheelchair: 'yes'
+---
+:lat: '37.5011340'
+:lon: '139.9426340'
+:amenity: fast_food
+:created_by: iLOE 1.8
+:name: かっぱ寿司
+---
+:lat: '37.5009750'
+:lon: '139.9425310'
+:created_by: iLOE 1.8
+:name: ホテルルートイン
+:tourism: hotel
+---
+:lat: '37.5002740'
+:lon: '139.9433330'
+:amenity: fuel
+:created_by: iLOE 1.8
+:name: ゼネラル
+---
+:lat: '37.4794290'
+:lon: '139.9310050'
+:created_by: iLOE 1.8
+:name: セブンイレブン 会津天神町店
+:shop: convenience
+---
+:lat: '37.4849060'
+:lon: '139.9271020'
+:amenity: pharmacy
+:created_by: iLOE 1.8
+:name: ツルハドラッグ 会津南町支店
+---
+:lat: '37.5120240'
+:lon: '139.9466000'
+:amenity: restaurant
+:created_by: iLOE 1.8
+:name: まったりラーメン
+:wheelchair: 'no'
+---
+:lat: '37.4776577'
+:lon: '139.9327127'
+:amenity: bank
+:atm: 'yes'
+:name: 福島銀行
+---
+:lat: '37.4775922'
+:lon: '139.9331347'
+:amenity: doctors
+:name: 蝦谷クリニック
+---
+:lat: '37.4891079'
+:lon: '139.9408720'
+:amenity: telephone
+:payment:telephone_cards: 'yes'
+---
+:lat: '37.4865006'
+:lon: '139.9134069'
+:amenity: public_building
+:name: 城西コミュニティセンター
+---
+:lat: '37.4907380'
+:lon: '139.9101320'
+:amenity: place_of_worship
+:created_by: iLOE 1.8
+:name: 古峯神社
+---
+:lat: '37.4772200'
+:lon: '139.9105390'
+:amenity: doctors
+:created_by: iLOE 1.8
+:name: 仙波耳鼻咽喉科
+:wheelchair: 'yes'
+---
+:lat: '37.5196813'
+:lon: '139.9155558'
+:name: 西沢書店
+:shop: books
+---
+:lat: '37.5193884'
+:lon: '139.9155749'
+:amenity: pharmacy
+:dispensing: カワチ薬品　会津アピオ店
+---
+:lat: '37.5197464'
+:lon: '139.9162042'
+:amenity: bank
+:atm: 'yes'
+:name: 東邦銀行会津アピオ支店
+---
+:lat: '37.5210296'
+:lon: '139.9147035'
+:amenity: place_of_worship
+:name: 写遊亭
+---
+:lat: '37.5216889'
+:lon: '139.9163040'
+:amenity: public_building
+:name: アピオセンター
+---
+:lat: '37.4713322'
+:lon: '139.9064571'
+:amenity: pharmacy
+:dispensing: カワチ薬品　会津若松南店
+---
+:lat: '37.5109817'
+:lon: '139.9481859'
+:amenity: restaurant
+:name: ごんちゃん
+---
+:lat: '37.4911751'
+:lon: '139.9186799'
+:name: セブンイレブン 城西店
+:opening_hours: 24h
+:shop: convenience
+:wheelchair: 'yes'
+---
+:lat: '37.4880700'
+:lon: '139.9111990'
+:amenity: dentist
+:created_by: iLOE 1.8
+:name: けいこ歯科
+:wheelchair: 'yes'
+---
+:lat: '37.4876990'
+:lon: '139.9112110'
+:amenity: doctors
+:created_by: iLOE 1.8
+:name: 手塚医院
+:opening_hours: 9:00-18:00
+:wheelchair: 'yes'
+---
+:lat: '37.4943270'
+:lon: '139.9203460'
+:amenity: bank
+:created_by: iLOE 1.8
+:name: 福島銀行 融通寺町出張所
+:wheelchair: 'yes'
+---
+:lat: '37.4913660'
+:lon: '139.9172260'
+:created_by: iLOE 1.8
+:name: 原田飴本舗
+:shop: confectionery
+---
+:lat: '37.5170730'
+:lon: '139.9120375'
+:amenity: fuel
+:name: ゼネラル
+---
+:lat: '37.5170462'
+:lon: '139.9117190'
+:name: トヨタカローラ
+:shop: car
+---
+:lat: '37.5175855'
+:lon: '139.9012451'
+:amenity: public_building
+:name: 中央公民館 神指分館
+---
+:lat: '37.4907740'
+:lon: '139.9096310'
+:addr:housenumber: 日吉町5-2
+:created_by: iLOE 1.8
+:name: 理容セキヤ
+:phone: 0242281697
+:shop: hairdresser
+---
+:lat: '37.4826320'
+:lon: '139.9371810'
+:amenity: restaurant
+:created_by: iLOE 1.8
+:name: ココ壱番屋
+:opening_hours: 11:00-24:00
+:wheelchair: 'yes'
+---
+:lat: '37.4821560'
+:lon: '139.9374810'
+:created_by: iLOE 1.8
+:name: セブンイレブン
+:opening_hours: 24h
+:shop: convenience
+:wheelchair: 'yes'
+---
+:lat: '37.4807217'
+:lon: '139.9352056'
+:amenity: cafe
+:internet_access: public
+:name: 快活クラブ
+---
+:lat: '37.4807584'
+:lon: '139.9348682'
+:name: ホワイト急便
+:shop: dry_cleaning
+---
+:lat: '37.4807655'
+:lon: '139.9347471'
+:name: 美容室イノセント
+:shop: hairdresser
+---
+:lat: '37.4779540'
+:lon: '139.9300285'
+:amenity: restaurant
+:name: うまか亭
+---
+:lat: '37.4776687'
+:lon: '139.9303319'
+:amenity: fire_station
+:name: 通信指令センター
+---
+:lat: '37.4786874'
+:lon: '139.9236398'
+:amenity: place_of_worship
+:name: 小野屋さくらホール門田斎苑
+---
+:lat: '37.4777193'
+:lon: '139.9300167'
+:name: ワークマン
+:shop: clothes
+---
+:lat: '37.4795582'
+:lon: '139.9341985'
+:amenity: post_box
+---
+:lat: '37.4774886'
+:lon: '139.9317344'
+:name: 三信
+:shop: clothes
+---
+:lat: '37.5216232'
+:lon: '139.9112276'
+:amenity: public_building
+:name: 北公民館
+---
+:lat: '37.4896891'
+:lon: '139.9313335'
+:amenity: cafe
+:name: 会津葵　西遊館
+---
+:lat: '37.4900767'
+:lon: '139.9322276'
+:amenity: public_building
+:name: ボランティアセンター
+---
+:lat: '37.4902010'
+:lon: '139.9302279'
+:amenity: restaurant
+:cuisine: japanese
+:name: ハトヤ食堂
+:phone: 0242-27-2138
+:stars: '5'
+---
+:lat: '37.4937209'
+:lon: '139.9317656'
+:name: 澤井鯉店
+:shop: butcher
+---
+:lat: '37.4899788'
+:lon: '139.9321545'
+:amenity: restaurant
+:name: ラシーヌ
+---
+:lat: '37.4901636'
+:lon: '139.9304086'
+:name: 会津葵
+:shop: gift
+---
+:lat: '37.4900862'
+:lon: '139.9312457'
+:amenity: cafe
+:name: 北出丸カフェ　アドリア
+---
+:lat: '37.4912891'
+:lon: '139.9304053'
+:amenity: restaurant
+:cuisine: japanese
+:email: kojuan@angel.ocn.ne.jp
+:name: 香寿庵
+:phone: 0242-26-8484
+:stars: '3'
+:website: http://aizutabinet.co.jp/soba/koujyu.html
+:wheelchair: 'yes'
+---
+:lat: '37.4920754'
+:lon: '139.9326800'
+:amenity: public_building
+:name: 会津労働基準局
+---
+:lat: '37.4715680'
+:lon: '139.9061526'
+:amenity: parking
+:parking: surface
+---
+:lat: '37.4507131'
+:lon: '139.9059977'
+:name: せせらぎ公園オートキャンプ場
+:tourism: caravan_site
+---
+:lat: '37.4486669'
+:lon: '139.9057755'
+:amenity: parking
+:parking: surface
+---
+:lat: '37.4482656'
+:lon: '139.9061620'
+:amenity: toilets
+---
+:lat: '37.4471980'
+:lon: '139.9067159'
+:amenity: toilets
+---
+:lat: '37.4505269'
+:lon: '139.9049026'
+:amenity: parking
+:parking: surface
+---
+:lat: '37.4922880'
+:lon: '139.9141850'
+:amenity: place_of_worship
+:created_by: iLOE 1.8
+:name: 崖薬師
+:residential: buddhist
+---
+:lat: '37.5014230'
+:lon: '139.9298550'
+:amenity: public_building
+:created_by: iLOE 1.8
+:internet_access: public
+:name: 会津まちなかITセンター
+:opening_hours: 10:00-19:00
+---
+:lat: '37.4859760'
+:lon: '139.9064680'
+:amenity: doctors
+:created_by: iLOE 1.8
+:name: 斎藤医院
+:opening_hours: 9:00～
+:wheelchair: 'yes'
+---
+:lat: '37.4863070'
+:lon: '139.9070190'
+:created_by: iLOE 1.8
+:name: ヘアーサロン エガワ
+:shop: hairdresser
+---
+:lat: '37.4860470'
+:lon: '139.9072140'
+:created_by: iLOE 1.8
+:name: 髪ふうせん
+:shop: hairdresser
+---
+:lat: '37.4863780'
+:lon: '139.9086010'
+:created_by: iLOE 1.8
+:name: ホワイト急便
+:shop: dry_cleaning
+---
+:lat: '37.4864070'
+:lon: '139.9091300'
+:created_by: iLOE 1.8
+:name: ファミリーヘアーサロン ビート
+:shop: hairdresser
+---
+:lat: '37.4861410'
+:lon: '139.9095140'
+:created_by: iLOE 1.8
+:name: サロンド なな
+:shop: hairdresser
+---
+:lat: '37.4861480'
+:lon: '139.9096390'
+:amenity: restaurant
+:created_by: iLOE 1.8
+:name: 麺屋 あおい
+---
+:lat: '37.5173710'
+:lon: '139.9322720'
+:created_by: iLOE 1.8
+:name: ゲオ
+:shop: video
+---
+:lat: '37.4860040'
+:lon: '139.9178290'
+:created_by: iLOE 1.8
+:name: ピュア
+:shop: hairdresser
+---
+:lat: '37.4858760'
+:lon: '139.9191040'
+:created_by: iLOE 1.8
+:name: テピカル美容室
+:shop: hairdresser
+---
+:lat: '37.4854830'
+:lon: '139.9230880'
+:created_by: iLOE 1.8
+:name: 根本塗装店
+:shop: doityourself
+---
+:lat: '37.4855780'
+:lon: '139.9242760'
+:created_by: iLOE 1.8
+:name: スポーツショップ ウイング
+:shop: sports
+---
+:lat: '37.4855470'
+:lon: '139.9249090'
+:amenity: pharmacy
+:created_by: iLOE 1.8
+:name: 松下薬品
+---
+:lat: '37.4855340'
+:lon: '139.9251200'
+:amenity: bank
+:created_by: iLOE 1.8
+:name: 会津商工信用組合城南支店
+:wheelchair: 'no'
+---
+:lat: '37.5182770'
+:lon: '139.9153760'
+:created_by: iLOE 1.8
+:name: 西松屋
+:shop: clothes
+:wheelchair: 'yes'
+---
+:lat: '37.4771350'
+:lon: '139.9336930'
+:created_by: iLOE 1.8
+:name: カインズホーム
+:shop: doityourself
+:wheelchair: 'yes'
+---
+:lat: '37.4774130'
+:lon: '139.9342180'
+:amenity: fuel
+:created_by: iLOE 1.8
+:name: ワタショウ
+---
+:lat: '37.4782800'
+:lon: '139.9347460'
+:amenity: fuel
+:created_by: iLOE 1.8
+:name: コスモ石油
+---
+:lat: '37.4825060'
+:lon: '139.8869930'
+:leisure: garden
+:name: みのり果樹園
+---
+:lat: '37.5517608'
+:lon: '139.9258309'
+:amenity: public_building
+:name: 会津若松市役所　河東支所
+---
+:lat: '37.4913230'
+:lon: '139.9214130'
+:amenity: hospital
+:name: 山鹿クリニック
+---
+:lat: '37.4952000'
+:lon: '139.9230770'
+:amenity: dentist
+:name: 桑原歯科医院
+---
+:lat: '37.4910720'
+:lon: '139.9214000'
+:amenity: pharmacy
+:name: ありす薬局
+---
+:lat: '37.4825990'
+:lon: '139.9258950'
+:amenity: place_of_worship
+:created_by: iLOE 1.9
+:name: 古峯神社
+---
+:lat: '37.5137310'
+:lon: '139.9364670'
+:created_by: iLOE 1.9
+:name: とん八
+:tourism: restaurant
+---
+:lat: '37.5133170'
+:lon: '139.9365450'
+:created_by: iLOE 1.9
+:name: セブンイレブン
+:shop: convenience
+---
+:lat: '37.4784690'
+:lon: '139.9249500'
+:addr:postcode: 965-0830
+:branch: 会津門田
+:brand: SoftBank
+:name: ソフトバンクショップ (SoftBank shop)
+:name:en: SoftBank shop
+:name:ja: ソフトバンクショップ
+:name:ja_rm: Sofutobanku Shoppu
+:opening_hours: Mo-Su 10:00-20:00
+:operator: ソフトバンクモバイル
+:shop: mobile_phone
+:source: (URL)
+:website: http://mb.softbank.jp/mb/customer.html
+---
+:lat: '37.5067690'
+:lon: '139.9441740'
+:name: ホームベーカリー コビヤマ
+:shop: bakery
+---
+:lat: '37.5070629'
+:lon: '139.9453416'
+:amenity: university
+:name: 会津大学短期大学部
+---
+:lat: '37.4990390'
+:lon: '139.9237040'
+:name: 喜久屋パン店
+:shop: Bakery
+---
+:lat: '37.4996607'
+:lon: '139.9506863'
+:name: りんどん
+:shop: bakery
+---
+:lat: '37.4966859'
+:lon: '139.9469163'
+:amenity: restaurant
+:name: 徳一
+---
+:lat: '37.4769310'
+:lon: '139.9167023'
+:amenity: kindergarten
+:name: みなみわかば幼稚園
+---
+:lat: '37.4958820'
+:lon: '139.9290580'
+:amenity: restaurant
+:created_by: iLOE 1.9
+:name: くるくる軒
+---
+:lat: '37.4959710'
+:lon: '139.9287100'
+:amenity: place_of_worship
+:created_by: iLOE 1.9
+:name: 福満虚空蔵尊
+---
+:lat: '37.4960340'
+:lon: '139.9287180'
+:amenity: place_of_worship
+:created_by: iLOE 1.9
+:name: 蒲生氏郷公墓所
+---
+:lat: '37.4899260'
+:lon: '139.9303780'
+:amenity: cafe
+:cuisine: coffee_shop
+:int_name: How'z it?
+:name: ハウゼ
+:website: http://howzit.fc2web.com/
+:wifi: 'no'
+---
+:lat: '37.4949310'
+:lon: '139.9277940'
+:name: ケースタイル
+:phone: '0242261055'
+:shop: pet
+---
+:lat: '37.4949630'
+:lon: '139.9280970'
+:name: 中村屋旅館
+:tourism: hotel
+---
+:lat: '37.4950460'
+:lon: '139.9278190'
+:name: prese
+:shop: furniture
+---
+:lat: '37.4954080'
+:lon: '139.9279100'
+:name: 時計宝飾メガネ サトウ
+:shop: jewelry
+---
+:lat: '37.4954170'
+:lon: '139.9276530'
+:name: 栄町オサダ
+:shop: stationery
+---
+:lat: '37.4951378'
+:lon: '139.9289270'
+:name: 松坂屋自転車店
+:shop: bicycle
+---
+:lat: '37.4731730'
+:lon: '139.9329050'
+:amenity: doctors
+:name: いとう子どもクリニック
+---
+:lat: '37.4731440'
+:lon: '139.9332780'
+:created_by: iLOE 1.9
+:name: セブンイレブン
+:shop: convenience
+---
+:lat: '37.4822117'
+:lon: '139.9180721'
+:name: ミウラ
+:shop: hairdresser
+---
+:lat: '37.4814838'
+:lon: '139.9090136'
+:name: うつわの店千藤
+:shop: furniture
+---
+:lat: '37.4821938'
+:lon: '139.9161133'
+:amenity: doctors
+:name: あらい内科循環器科クリニック
+---
+:lat: '37.4820404'
+:lon: '139.9161209'
+:amenity: doctors
+:name: あいづ整形外科
+---
+:lat: '37.4805510'
+:lon: '139.9362910'
+:amenity: restaurant
+:created_by: iLOE 1.9
+:name: 海老のまるやま
+---
+:lat: '37.4806340'
+:lon: '139.9358200'
+:name: 生活良品セリア
+:shop: doityourself
+---
+:lat: '37.4808020'
+:lon: '139.9359560'
+:amenity: restaurant
+:created_by: iLOE 1.9
+:name: インド食
+---
+:lat: '37.4803730'
+:lon: '139.9357200'
+:created_by: iLOE 1.9
+:name: 金美堂
+:shop: glass
+---
+:lat: '37.4644038'
+:lon: '139.9233252'
+:amenity: restaurant
+:name: しおえ
+---
+:lat: '37.4748899'
+:lon: '139.9256642'
+:name: リオンドール
+:shop: supermarket
+---
+:lat: '37.4754667'
+:lon: '139.9258359'
+:name: ダイソー
+:shop: doityourself
+---
+:lat: '37.4993367'
+:lon: '139.9246287'
+:name: ラジオセンター
+:shop: electronics
+---
+:lat: '37.4951903'
+:lon: '139.8939280'
+:amenity: recycling
+:name: ごみ焼却処理施設
+---
+:lat: '37.4784680'
+:lon: '139.9249530'
+:created_by: iLOE 1.9
+:name: ソフトバンク 会津門田店
+:shop: mobile_phone
+---
+:lat: '37.4596724'
+:lon: '139.9219109'
+:name: セブンイレブン
+:shop: convenience
+---
+:lat: '37.4599820'
+:lon: '139.9220220'
+:created_by: iLOE 1.9
+:name: 洗車
+:tourism: car wash
+---
+:lat: '37.4780041'
+:lon: '139.9168072'
+:amenity: doctors
+:name: いとう内科消化器科クリニック
+---
+:lat: '37.5070506'
+:lon: '139.9335767'
+:name: 会津若松ワシントンホテル
+:stars: '5'
+:tourism: hotel
+:wheelchair: 'yes'
+---
+:lat: '37.5048910'
+:lon: '139.9339110'
+:amenity: fuel
+:created_by: iLOE 1.9
+:name: 日石販売
+:shop: fuel
+---
+:lat: '37.5220590'
+:lon: '139.9381000'
+:amenity: post_box
+:created_by: iLOE 1.9
+---
+:lat: '37.5180420'
+:lon: '139.9169280'
+:created_by: iLOE 1.9
+:name: 中華飯店 重慶
+:phone: '0242252331'
+:tourism: restaurant
+---
+:lat: '37.4822210'
+:lon: '139.9263480'
+:created_by: iLOE 1.9
+:historic: relic
+:name: 星野酒店
+:shop: liquor
+---
+:lat: '37.4998130'
+:lon: '139.9231650'
+:amenity: restaurant
+:created_by: iLOE 1.9
+:name: カフェ&バー ウノ
+---
+:lat: '37.4918190'
+:lon: '139.8749365'
+:amenity: parking
+---
+:lat: '37.4913670'
+:lon: '139.8732623'
+:amenity: parking
+---
+:lat: '37.4914417'
+:lon: '139.8750454'
+:amenity: parking
+---
+:lat: '37.4920194'
+:lon: '139.8741737'
+:amenity: parking
+---
+:lat: '37.5511482'
+:lon: '139.9267484'
+:amenity: toilets
+:fee: 'no'
+---
+:lat: '37.4995380'
+:lon: '139.9218565'
+:name: キタアイダ
+:shop: alcohol
+---
+:lat: '37.5210360'
+:lon: '139.9442370'
+:created_by: iLOE 1.9
+:name: ファミリーマート
+:shop: convenience
+---
+:lat: '37.5181380'
+:lon: '139.9232290'
+:created_by: iLOE 1.9
+:name: ファミリーマート
+:shop: convenience
+---
+:lat: '37.4924560'
+:lon: '139.9222190'
+:created_by: iLOE 1.9
+:name: 太郎庵
+:shop: bakery
+---
+:lat: '37.5073310'
+:lon: '139.9315620'
+:amenity: bar
+:created_by: iLOE 1.9
+:name: 白木屋
+---
+:lat: '37.5068620'
+:lon: '139.9320200'
+:amenity: parking
+:created_by: iLOE 1.9
+:tourism: parking
+---
+:lat: '37.5068230'
+:lon: '139.9305990'
+:created_by: iLOE 1.9
+:name: フジグランドホテル
+:tourism: hotel
+---
+:lat: '37.5078950'
+:lon: '139.9305920'
+:amenity: parking
+:created_by: iLOE 1.9
+---
+:lat: '37.5062150'
+:lon: '139.9297970'
+:amenity: bicycle_parking
+:created_by: iLOE 1.9
+---
+:lat: '37.5072030'
+:lon: '139.9320130'
+:amenity: car_rental
+:created_by: iLOE 1.9
+:name: オリックスレンタカー
+---
+:lat: '37.5071410'
+:lon: '139.9322520'
+:created_by: iLOE 1.9
+:name: 会津バス観光
+:tourism: information
+---
+:lat: '37.4611930'
+:lon: '139.8387250'
+:created_by: iLOE 1.9
+:name: 太郎庵
+:shop: bakery
+---
+:lat: '37.4611060'
+:lon: '139.8394170'
+:amenity: bank
+:created_by: iLOE 1.9
+:name: 東邦銀行
+---
+:lat: '37.5015990'
+:lon: '139.9175860'
+:created_by: iLOE 1.9
+:name: セブンイレブン
+:shop: convenience
+---
+:lat: '37.4975080'
+:lon: '139.9316400'
+:created_by: iLOE 1.9
+:name: User defined
+:shop: liquor
+---
+:lat: '37.4613400'
+:lon: '139.9292107'
+:leisure: miniature_golf
+---
+:lat: '37.4598345'
+:lon: '139.9283677'
+:amenity: parking
+---
+:lat: '37.4606528'
+:lon: '139.9296213'
+:amenity: toilets
+---
+:lat: '37.4604285'
+:lon: '139.9299125'
+:leisure: playground
+:name: わんぱく広場
+---
+:lat: '37.4601943'
+:lon: '139.9236889'
+:amenity: parking
+---
+:lat: '37.4598246'
+:lon: '139.9219275'
+:amenity: fuel
+:brand: ゼネラル
+---
+:lat: '37.4630508'
+:lon: '139.9236298'
+:leisure: pitch
+---
+:lat: '37.5043084'
+:lon: '139.9512189'
+:amenity: parking
+:fee: 'no'
+:name: 飯盛山市営駐車場
+---
+:lat: '37.4966900'
+:lon: '139.9264110'
+:created_by: iLOE 1.9
+:leisure: park
+:name: 野口英世青春広場
+---
+:lat: '37.5236369'
+:lon: '139.9338425'
+:amenity: hospital
+:name: 舟田クリニック産婦人科
+---
+:lat: '37.5145406'
+:lon: '139.8957939'
+:amenity: place_of_worship
+:name: 福昌寺
+:religion: buddhist
+---
+:lat: '37.5005041'
+:lon: '139.8926662'
+:name: ファミリーマート
+:shop: convenience
+---
+:lat: '37.5095123'
+:lon: '139.9413705'
+:name: セブンイレブン
+:opening_hours: 24/7
+:shop: convenience
+---
+:lat: '37.5107763'
+:lon: '139.9281177'
+:name: セブンイレブン
+:opening_hours: 24/7
+:shop: convenience
+---
+:lat: '37.5183189'
+:lon: '139.9167039'
+:name: イエローハット
+:shop: car_repair
+---
+:lat: '37.5183348'
+:lon: '139.9157875'
+:name: ユニクロ
+:shop: clothes
+---
+:lat: '37.5305049'
+:lon: '139.8699421'
+:name: ヘアサロン ルシア
+:shop: hairdresser
+---
+:lat: '37.5300096'
+:lon: '139.8685548'
+:amenity: restaurant
+:cuisine: italian
+:name: 伊太利亭
+---
+:lat: '37.5171252'
+:lon: '139.9928492'
+:leisure: playground
+---
+:lat: '37.4993511'
+:lon: '139.9250122'
+:name: ラグ
+:shop: hifi
+---
+:lat: '37.4986374'
+:lon: '139.9272713'
+:name: 林部印店
+:shop: stationery
+---
+:lat: '37.5123504'
+:lon: '140.0096632'
+:amenity: community_centre
+:name: 笹山原公民館
+---
+:lat: '37.5066987'
+:lon: '139.8651727'
+:addr:housename: とうふ屋 豆の子
+:shop: confectionery
+---
+:lat: '37.5183590'
+:lon: '139.9296283'
+:name: ダイハツ会津店
+:phone: 0242-24-4554
+:shop: car
+---
+:lat: '37.5089746'
+:lon: '139.9446742'
+:amenity: place_of_worship
+:name: 八幡神社
+:religion: shinto
+---
+:lat: '37.4939280'
+:lon: '139.9349280'
+:name: Lowcal Agree
+:shop: hairdresser
+---
+:lat: '37.4937440'
+:lon: '139.9353600'
+:name: 理容ＭＧ
+:shop: hairdresser
+---
+:lat: '37.4926000'
+:lon: '139.9399680'
+:amenity: doctors
+:name: さいとう内科胃腸科クリニック
+:phone: 0242383717
+---
+:lat: '37.4918200'
+:lon: '139.9415040'
+:amenity: restaurant
+:name: デニーズ
+:opening_hours: 24h
+---
+:lat: '37.4915760'
+:lon: '139.9405920'
+:name: ヨークベニマル　花春町店
+:opening_hours: 09:00-10:00
+:shop: supermarket
+---
+:lat: '37.4909840'
+:lon: '139.9412960'
+:name: 絹美容室
+:shop: hairdresser
+---
+:lat: '37.4905760'
+:lon: '139.9412000'
+:name: コインランドリー　サンキュー
+:shop: laundry
+---
+:lat: '37.4898400'
+:lon: '139.9410400'
+:name: シュープラザ　チヨダ
+:shop: shoes
+---
+:lat: '37.4893240'
+:lon: '139.9409440'
+:name: エンドー花店
+:shop: florist
+---
+:lat: '37.4890680'
+:lon: '139.9411360'
+:name: セレクトワンズ
+:shop: car
+---
+:lat: '37.4856120'
+:lon: '139.9215040'
+:name: ワンズサイクル
+:shop: bicycle
+---
+:lat: '37.5518396'
+:lon: '139.9388636'
+:amenity: school
+:name: 市立川東中学校
+---
+:lat: '37.5101772'
+:lon: '139.9311447'
+:name: ダイユーエイト
+:shop: doityourself
+---
+:lat: '37.4782071'
+:lon: '139.9260386'
+:name: トヨタカローラ
+:shop: car
+:source: Bing 2010
+---
+:lat: '37.4783518'
+:lon: '139.9253466'
+:name: 福島トヨペット
+:shop: car
+:source: Bing 2010
+---
+:lat: '37.5051114'
+:lon: '139.9430369'
+:addr:postcode: 965-0022
+:branch: 会津白虎通り
+:brand: SoftBank
+:name: ソフトバンクショップ (SoftBank shop)
+:name:en: SoftBank shop
+:name:ja: ソフトバンクショップ
+:name:ja_rm: Sofutobanku Shoppu
+:opening_hours: Mo-Su 10:00-19:00
+:operator: ソフトバンクモバイル
+:shop: mobile_phone
+:source: (URL)
+:website: http://mb.softbank.jp/mb/customer.html
+---
+:lat: '37.5181070'
+:lon: '139.9225557'
+:addr:postcode: 965-0053
+:branch: 会津インター
+:brand: SoftBank
+:name: ソフトバンクショップ (SoftBank shop)
+:name:en: SoftBank shop
+:name:ja: ソフトバンクショップ
+:name:ja_rm: Sofutobanku Shoppu
+:opening_hours: Mo-Su 10:00-19:00
+:operator: ソフトバンクモバイル
+:shop: mobile_phone
+:source: Bing 2010; (URL)
+:website: http://mb.softbank.jp/mb/customer.html
+---
+:lat: '37.5248965'
+:lon: '139.9387836'
+:amenity: toilets
+---
+:lat: '37.5250288'
+:lon: '139.9361450'
+:amenity: drinking_water
+---
+:lat: '37.5218990'
+:lon: '139.9356205'
+:amenity: cafe
+:name: ベーカリーカフェ　コパン
+---
+:lat: '37.5214999'
+:lon: '139.9336171'
+:amenity: hospital

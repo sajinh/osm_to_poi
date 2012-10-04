@@ -2,6 +2,7 @@ require 'pp'
 require 'xml'
 require File.join(File.dirname(__FILE__),'../lib/ext/xml')
 require File.join(File.dirname(__FILE__),'../lib/poi_factory')
+require 'yaml'
 
 
 path="./aizu.osm" # XML data from openstreetmap.org for Aizuwakamatsu
@@ -20,13 +21,8 @@ while (docstream.read) do
   docstream.next
 end
 
-fout = File.open("aizu_poi.csv","w")
-fout.puts %Q("longitude","latitude","category","name",,)
+fout = File.open("aizu_poi.yml","w")
 poi_arr=poi_factory.poi_arr
-poi_list.map! {|typ| typ.to_sym}
 poi_arr.each do |poi_hash|
-  poi_typ = poi_hash.values_at(*poi_list).join
-  fout.print %Q("#{poi_hash[:lon]}","#{poi_hash[:lat]}",)
-  fout.print %Q("#{poi_typ}",)
-  fout.puts  %Q("#{poi_hash[:name]}",,)
+  fout.puts  poi_hash.to_yaml
 end
