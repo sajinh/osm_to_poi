@@ -21,12 +21,13 @@ while (docstream.read) do
 end
 
 fout = File.open("aizu_poi.csv","w")
-fout.puts %Q("longitude","latitude","category","name",,)
+fout.puts %Q("longitude","latitude","category","name","wheelchair",)
 poi_arr=poi_factory.poi_arr
 poi_list.map! {|typ| typ.to_sym}
 poi_arr.each do |poi_hash|
   poi_typ = poi_hash.values_at(*poi_list).join
   fout.print %Q("#{poi_hash[:lon]}","#{poi_hash[:lat]}",)
   fout.print %Q("#{poi_typ}",)
-  fout.puts  %Q("#{poi_hash[:name]}",,)
+  fout.print  %Q("#{poi_hash[:name]}",)
+  fout.puts  %Q("#{poi_hash[:wheelchair]}")
 end
